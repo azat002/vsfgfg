@@ -41,3 +41,9 @@ footer {
     padding: 10px;
     background-color: #024c68;
 }
+
+.pop {
+    color: red;
+    font-size: 35px;
+    border-right: px;
+}
